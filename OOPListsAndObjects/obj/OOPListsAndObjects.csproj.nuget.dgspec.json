@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julia.voronetskaja\\source\\repos\\OOPListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-Week14-ListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julia.voronetskaja\\source\\repos\\OOPListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\LOGITpe20-Week14-ListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julia.voronetskaja\\source\\repos\\OOPListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-Week14-ListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj",
         "projectName": "OOPListsAndObjects",
-        "projectPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\OOPListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj",
-        "packagesPath": "C:\\Users\\julia.voronetskaja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\OOPListsAndObjects\\OOPListsAndObjects\\obj\\",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-Week14-ListsAndObjects\\OOPListsAndObjects\\OOPListsAndObjects.csproj",
+        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-Week14-ListsAndObjects\\OOPListsAndObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\julia.voronetskaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
